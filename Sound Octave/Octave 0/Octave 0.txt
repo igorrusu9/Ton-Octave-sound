@@ -1,0 +1,14 @@
+Octave 0		Frequency (Hz)			Wavelength (M)*			Comment
+--------		--------------			---------------			---------------------
+C				16.351					20.812m					MIDI note # 12
+C# / Db			17.324					19.643m	
+D				18.354					18.54m	
+D# / Eb			19.445					17.5m	
+E				20.601					16.518m	
+F				21.827					15.59m	
+F# / Gb			23.124					14.716m	
+G				24.499					13.89m	
+G# / Ab			25.956					13.11m	
+A				27.5					12.374m					Lowest Note of Piano
+A# / Bb			29.135					11.68m	
+B				30.868					11.024m					Lowest Note of 5 string bass
