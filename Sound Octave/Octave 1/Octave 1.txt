@@ -1,14 +1,14 @@
 Octave 1		Frequency (Hz)			Wavelength (M)*			Comment
 --------		--------------			---------------			---------------------
-C				32.703					10.405m					Lowest Note of double bass with C extension
-C# / Db			34.648					9.821m	
-D				36.708					9.27m	
-D# / Eb			38.891					8.75m	
-E				41.203					8.259m					Lowest Note of Bass
-F				43.654					7.795m	
-F# / Gb			46.249					7.358m	
-G				48.999					6.945m	
-G# / Ab			51.913					6.555m	
-A				55						6.187m	
-A# / Bb			58.27					5.84m	
-B				61.735					5.512m	
+C			32.703				10.405m				Lowest Note of double bass with C extension
+C# / Db			34.648				9.821m	
+D			36.708				9.27m	
+D# / Eb			38.891				8.75m	
+E			41.203				8.259m				Lowest Note of Bass
+F			43.654				7.795m	
+F# / Gb			46.249				7.358m	
+G			48.999				6.945m	
+G# / Ab			51.913				6.555m	
+A			55				6.187m	
+A# / Bb			58.27				5.84m	
+B			61.735				5.512m	
